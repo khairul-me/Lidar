@@ -1,7 +1,6 @@
 # Enhanced LiDAR Processing System
 ## Transforming Low-Cost LiDAR Sensors with AI-Driven Quality Enhancement
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![Status](https://img.shields.io/badge/status-active%20research-green.svg)](https://github.com)
 
