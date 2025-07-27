@@ -399,26 +399,11 @@ We welcome contributions from researchers, engineers, and enthusiasts!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Ohio Wesleyan University** - Physics and Computer Science Departments
 - **Research Collaborators** - Multi-disciplinary team support
 - **Open Source Community** - Libraries and tools that made this possible
-
----
-
-## 📞 Contact
-
-**Research Lead**: [Your Name]  
-**Email**: [your.email@university.edu]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Research Gate**: [Your Research Profile]
 
 ---
 
